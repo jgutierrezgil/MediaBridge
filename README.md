@@ -5,7 +5,7 @@
 ![GStreamer](https://img.shields.io/badge/GStreamer-Required-green)
 ![Apache](https://img.shields.io/badge/Apache-Required-orange)
 
-> MediaBridge es un reproductor multimedia que permite realizar streaming de archivos multimedia en cualquier lugar donde tengamos una conexión a internet. Proyecto final de carrera de Ingeniería Técnica en Informática de Gestión de la Universidad Pablo de Olavide de Sevilla.
+> MediaBridge es un reproductor multimedia que permite realizar streaming de archivos multimedia en cualquier lugar donde tengamos una conexión a internet. Proyecto final de carrera de Ingeniería Técnica en Informática de Gestión de la Universidad Pablo de Olavide de Sevilla (Año 2009).
 
 ## 📑 Tabla de Contenidos
 - [Descripción](#-descripción)
